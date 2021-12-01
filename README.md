@@ -1,6 +1,5 @@
 # Machine Learning Helper Scripts
 
----
 
 This project aims to provide a collection of Machine Learning useful scripts.
 They are presented through notebooks, so you can understand and visualize any outputs 

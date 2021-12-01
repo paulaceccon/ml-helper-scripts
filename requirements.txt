@@ -1,3 +1,6 @@
 notebook
 matplotlib
 sklearn
+seaborn
+pandas
+jupyter_contrib_nbextensions
