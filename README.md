@@ -18,11 +18,10 @@ without needing to run any code.
 
 * [github.com's notebook viewer](https://github.com/ageron/handson-ml2/blob/master/index.ipynb) also works but it's not ideal: it's slower, the math equations are not always displayed correctly, and large notebooks often fail to open.
 
-Helper scripts to work on ML flows.
 
 
 ### TODOs:
 - Makefile
+- index
 - Reproducible train/test split
-- Choosing best score from ROC curve
 - Elbow Method
